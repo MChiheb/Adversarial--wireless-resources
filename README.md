@@ -1,5 +1,3 @@
-# Adversarial--wireless-resources
-A repo for available resources for adversarial machine learning on wireless communication
 # Adversarial Wireless Communications Resources
 
 This repository summarizes publicly available datasets, libraries, and toolkits used for adversarial machine learning research in wireless communications.
